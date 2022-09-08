@@ -1,0 +1,19 @@
+Pointers
+
+pointers = a "variable-like" reference that holds a memory address to another variable, array, etc.
+           some tasks are performed more easily with pointers.
+           * = indirection operator (value at address)
+    
+/*Advantages of Using Pointers
+
+• Less time in program execution.
+
+• Working on the original variable.
+
+• With the help of pointers, we can create data structures (linked-list, stack, queue).
+
+• Returning more than one values from functions.
+
+• Searching and sorting large data very easily.
+
+• Dynamically memory allocation.
