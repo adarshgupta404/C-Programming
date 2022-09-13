@@ -17,6 +17,7 @@ void printWinner(char Winner);
 
 int main()
 {
+    
 char Winner = ' ';
 char response;
 do
